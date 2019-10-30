@@ -1,0 +1,7 @@
+/backend/node_modules/*
+/map/node_modules/*
+/backend/serviceAccountKey.json
+/map/.firebaserc
+/map/firebase.json
+backend/oldTest.js
+ng-map/src/environments/firebase.ts
